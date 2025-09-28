@@ -7,7 +7,7 @@ function ProjectHome() {
     <div className="min-h-screen bg-gray-100 dark:bg-zinc-900 text-gray-900 dark:text-white flex flex-col">
 
       {/* Hero Section */}
-      <header className="bg-gradient-to-r from-zinc-700 to-zinc-500 text-white py-20 text-center rounded-b-3xl">
+      <header className="bg-gradient-to-r from-zinc-700 to-zinc-900 text-white py-20 text-center rounded-b-3xl">
         <h1 className="text-5xl font-bold mb-4">User Management System</h1>
         <p className="text-lg md:text-xl mb-6 max-w-xl mx-auto">
           Create, edit, and delete user profiles easily. Built with React + Redux for state management and a responsive UI.
