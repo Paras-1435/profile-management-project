@@ -1,0 +1,30 @@
+ul{
+    list-style: none;
+    height: 70px;
+    border: 1px solid black;
+    display: flex;
+    gap:20px;
+    font-size: x-large;
+    justify-content: center;
+    align-items: center;
+}
+
+
+li a{
+    text-decoration: none;
+}
+
+
+Body{
+    background-color: rgb(226, 226, 226);
+}
+input placeholder{
+    color: rgb(255, 248, 248);
+}
+
+.updateForm{
+    display: block;
+}
+.hideUpdateForm{
+    display: none;
+}
