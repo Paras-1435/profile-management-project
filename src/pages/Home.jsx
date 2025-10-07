@@ -65,7 +65,7 @@ function ProjectHome() {
       {/* Footer / Back Link */}
       <footer className="py-12 text-center">
         <Link
-          to="/"
+          to="https://myportfolio14355.netlify.app/"
           className="px-6 py-3 bg-white text-black font-semibold rounded-lg hover:bg-gray-200 transition"
         >
           Back to Portfolio
